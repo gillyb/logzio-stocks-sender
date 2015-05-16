@@ -1,0 +1,8 @@
+{
+  "name": "logzio-stocks-sender",
+  "version": "0.0.1",
+  "dependencies": {
+    "logzio-nodejs": "^0.0.1",
+    "google-finance": "^0.1.4"
+  }
+}
